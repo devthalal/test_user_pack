@@ -1,0 +1,21 @@
+{
+  "name": "test_user_pack",
+  "type": "package",
+  "blockId": "L49o8huwJixWIKgjW77cf",
+  "source": {
+    "https": "https://github.com/devthalal/test_user_pack.git",
+    "ssh": "git@github.com:devthalal/test_user_pack.git",
+    "branch": "block_test_user_pack"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "pack_n_1_fn_1": {
+      "directory": "pack_n_1_fn_1"
+    }
+  }
+}
