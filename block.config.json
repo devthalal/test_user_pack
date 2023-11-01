@@ -1,0 +1,21 @@
+{
+  "blockId": "2bUj37Ls8wYXb8KPwIB_k",
+  "name": "pack_n_1_fn_1",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/devthalal/test_user_pack.git",
+    "ssh": "git@github.com:devthalal/test_user_pack.git",
+    "branch": "block_pack_n_1_fn_1"
+  },
+  "parentBlockIDs": [
+    "L49o8huwJixWIKgjW77cf"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js",
+  "variantOfBlockId": "U-dGD3FlSroYNLklAwwxR"
+}
