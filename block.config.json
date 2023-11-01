@@ -5,7 +5,7 @@
   "source": {
     "https": "https://github.com/devthalal/test_user_pack.git",
     "ssh": "git@github.com:devthalal/test_user_pack.git",
-    "branch": "block_pack_n_1_fn_1"
+    "branch": "block_test_user_pack"
   },
   "parentBlockIDs": [],
   "isPublic": true,
